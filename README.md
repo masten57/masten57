@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ken. 👋
 
-### 🌍 Software Engineer | Climate Tech Enthusiast | Data Science Background
+### 🌍 Climate Tech Software Engineer | Data Science Background
 
 I am a **Software Engineer** dedicated to building scalable, AI-integrated solutions in the **Climate Tech** sector. My journey started with a **Bachelor's in Data Science**, which gives me a unique perspective on building data-driven SaaS applications with high integrity and analytical depth.
 
