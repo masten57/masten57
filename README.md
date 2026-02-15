@@ -33,7 +33,7 @@ I am a **Software Engineer** dedicated to building scalable, AI-integrated solut
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/kenalfa57/)
-- 📧 [Your Email](ken.alfa57@email.com)
+- 📧 [Email](ken.alfa57@gmail.com)
 
 ---
 
